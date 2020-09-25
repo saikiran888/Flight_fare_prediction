@@ -1,0 +1,33 @@
+body {
+    background-color: #e1f4f3;
+    text-align: center;
+    background-image: url("bg.jpg");
+    height: 100%;
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+
+
+
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+.btn-secondary {
+      width: 150;
+      color: aliceblue;
+      background-color: cadetblue;
+    }
+
+.card{
+  background-color: #f6f6f6;
+}
